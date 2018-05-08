@@ -6,7 +6,7 @@
   * Tipo: Ejercicio
   * Peso: 15% nota presentación a Examen
   * Entrega: S2 - Lunes 12 de Marzo, 10:00 AM
-  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/9Be2Hkf0lGz9drn4j9E3)
+  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/FuZukVSRMflCdnixY6O5)
 
 
 * **E02 - HyperBrush**
@@ -47,22 +47,20 @@
 
 Fecha | Tipo | Entrega/Actividad
 ------------ | ------------- | ---
-lun. 07 de Mayo	| CLASE	S1	|
-mie. 09 de Mayo	| AYUDANTÍA	|
-lun. 14 de Mayo	| CLASE	S2	| E01 ClonArte
+lun. 14 de Mayo	| CLASE	S1	| clase
 mie. 16 de Mayo	| AYUDANTÍA	|
 lun. 21 de Mayo	| **FERIADO**	| No hay clases
 mie. 23 de Mayo	| AYUDANTÍA	|
-lun. 28 de Mayo	| CLASE	S3	| E02 HyperBrush
+lun. 28 de Mayo	| CLASE	S2	| E01 ClonArte
 mie. 30 de Mayo	| AYUDANTÍA	|
-lun. 04 de Junio	| CLASE	S4	|
+lun. 04 de Junio	| CLASE	S3	|E02 HyperBrush
 mie. 06 de Junio	| AYUDANTÍA	|
-lun. 11 de Junio	| CLASE	S5	| E03 patronInteractivo
+lun. 11 de Junio	| CLASE	S4	| E03 patronInteractivo
 mie. 13 de Junio	| AYUDANTÍA	|
-lun. 18 de Junio	| CLASE	S6	| E04 Experimenta
+lun. 18 de Junio	| CLASE	S5	| E04 Experimenta
 mie. 20 de Junio	| AYUDANTÍA	|
-lun. 25 de Junio	| CLASE	S7	| EX01 Examen Anteproyecto
+lun. 25 de Junio	| CLASE	S6	| EX01 Examen Anteproyecto
 mie. 27 de Junio	| AYUDANTÍA	|
 lun. 02 de Julio	| **FERIADO**	| No hay clases
 mie. 04 de Julio	| AYUDANTÍA	|
-lun. 09 de Julio	| CLASE	S9	| EX02 Examen Final
+lun. 09 de Julio	| CLASE	S7	| EX02 Examen Final
