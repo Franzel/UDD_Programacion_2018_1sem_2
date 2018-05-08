@@ -50,7 +50,7 @@ El uso de estas fuentes está permitido, pero solo en tanto exista:
 * **Siempre** exista atribución a la fuente original de dicho material,inluyendo el URL fuente en el código mismo.
 * Apropriación responsable, el código usado debe haber sido modificado, remezclado **lo suficiente** para que no constituya un plagio (no cuenta por ejemplo, cambiar el color o tamaño de los elementos).
 
-La práctica de plagio no será tolerada y considerada una falta grave. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Intergridad Academica](UDD_Programacion_2018_1sem_1/Documentos_UDD/INSTRUCTIVO DE INTEGRIDAD ACADÉMICA_diseño UDD.pdf) de la Facultad de Diseño.
+La práctica de plagio no será tolerada y considerada una falta grave. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Intergridad Academica](https://github.com/Franzel/UDD_Programacion_2018_1sem_2/blob/master/Documentos_UDD/INSTRUCTIVO%20DE%20INTEGRIDAD%20ACAD%C3%89MICA_dise%C3%B1o%20UDD.pdf) de la Facultad de Diseño.
 
 ## Bibliografía
 ### Bibliografía Obligatoria:
