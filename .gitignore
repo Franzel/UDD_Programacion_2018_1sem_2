@@ -5,3 +5,12 @@ application.linux64
 application.windows32
 application.windows64
 application.macosx
+sketch.properties
+.pages
+/Entregas
+/Programa
+/DocumentosAdmin
+/DocumentosPrep
+/ADMIN
+/Calificaciones
+/Preparacion
