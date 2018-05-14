@@ -1,4 +1,4 @@
-# Programación 2017 - Semana 03
+# Programación 2018 - Semana 03
 ## Contenido de Hoy
 * Revisión Entrega 02
 * Rápido repaso semana anterior
@@ -17,4 +17,4 @@
 
 
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_1)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_2)*

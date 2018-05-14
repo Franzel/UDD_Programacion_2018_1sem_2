@@ -1,6 +1,5 @@
-# Programación 2017 - Semana 02
+# Programación 2018 - Semana 02
 ## Contenido de Hoy
-* Revisión Encargo 01
 * Funciones de apariencia `fill(), noFill(), stroke(), noStroke(), strokeWeight()`
 * `random()`
 * Operaciones matemáticas en consola
@@ -11,7 +10,7 @@
   * `setup(), draw()`
   * `framerate()`
   * `random()` aplicado a Variables
-* Data Types: `int, float, boolean`
+* Data Types: `int, float, boolean, color`
 
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_1)*
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2018_1sem_2)*
