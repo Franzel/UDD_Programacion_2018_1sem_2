@@ -3,8 +3,10 @@ Esta es la base para poder hacer interaccion con teclado,
  a la vez que pintamos con el mouse.
  */
 
+// creamos una variable para tamaño,
+// en base a este modelo puedes crear tus propias variables y seguir la misma logica
 
-float miPorte; //creamos una variable para tamaño, en base a este modelo habra que crear sus propias variables
+float miPorte; 
 
 void setup() {
   size(500, 500);//tamano de lienzo
@@ -19,19 +21,19 @@ void draw() {
 }
 
 void keyPressed() {
-  if (key=='a') {
+  if (key=='1') {
     miPorte = 10;//modificamos variable
     //aca modificar las otras variables
   }
-  if (key=='s') {
+  if (key=='2') {
     miPorte = 30;//modificamos variable
     //aca modificar las otras variables
   }
-  if (key=='d') {
+  if (key=='3') {
     miPorte = 50;//modificamos variable
     //aca modificar las otras variables
   }
-  if (key=='f') {
+  if (key=='4') {
     miPorte = 100;//modificamos variable
     //aca modificar las otras variables
   }
