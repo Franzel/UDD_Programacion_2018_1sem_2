@@ -31,9 +31,9 @@
   * Tipo: Examen Final
   * Peso: 30% nota final
   * Entregas:
-    * **EX01 - Anteproyecto**
-      * S8 - Lunes 25 de Junio, 02:30 PM
-      * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/ak8SbjacKug0OMFuq3pN)
+    * ~~**EX01 - Anteproyecto**~~
+      * ~~S8 - Lunes 25 de Junio, 02:30 PM~~
+      * ~~Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/ak8SbjacKug0OMFuq3pN)~~
     * **EX02 - Final**
       * S9 - Lunes 09 de Julio, 10:00 AM
       * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/aeH4UEbstRNaLirb6bMG)
