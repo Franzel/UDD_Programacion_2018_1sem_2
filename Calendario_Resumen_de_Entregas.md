@@ -24,7 +24,7 @@
 * **E04 - patronInteractivo**
   * Tipo: Encargo
   * Peso: 25% nota final
-  * Entrega: S5 - Lunes 18 de Junio, 10:00 AM
+  * Entrega: S5 - Lunes 25 de Junio, 10:00 AM
   * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/8j8nT5koGvYCThUfZ5T6)
 
 * **EXAMEN**
