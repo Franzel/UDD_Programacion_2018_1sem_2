@@ -52,11 +52,11 @@ lun. 28 de Mayo	| CLASE	S2	| E01 ClonArte
 mie. 30 de Mayo	| AYUDANTÍA	|
 lun. 04 de Junio	| CLASE	S3	|E02 variArte
 mie. 06 de Junio	| AYUDANTÍA	|
-lun. 11 de Junio	| CLASE	S4	| E03 HyperBrush
-mie. 13 de Junio	| AYUDANTÍA	|
-lun. 18 de Junio	| CLASE	S5	| E04 patronInteractivo
+lun. 11 de Junio	| CLASE	SUSPENDIDA	| E03 HyperBrush
+mie. 13 de Junio	| CLASE S4	| Clase recuperativa
+lun. 18 de Junio	| CLASE	S5	|
 mie. 20 de Junio	| AYUDANTÍA	|
-lun. 25 de Junio	| CLASE	S6	| EX01 Examen Anteproyecto
+lun. 25 de Junio	| CLASE	S6	| E04 patronInteractivo
 mie. 27 de Junio	| AYUDANTÍA	|
 lun. 02 de Julio	| **FERIADO**	| No hay clases
 mie. 04 de Julio	| AYUDANTÍA	|
