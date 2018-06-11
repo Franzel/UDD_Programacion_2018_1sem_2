@@ -1,13 +1,15 @@
 # Programación 2018 - Semana 06
 ## Contenido de Hoy
+* Cada alumno presenta en 2-3 minutos acerca de su proyecto de Examen
+* Trabajo práctico en Examen
+
+* Extras:
+* Animación y dibujos radiales via sin/cos
+* Incorporación de Imágenes y Fuentes
 * Arrays
   * Arrays unidimensionales
   * Arrays y For Loops
   * Arrays bidimensionales
-
-* `OOP` Introducción a la Programación Orientada a Objetos
-* Arrays en el contexto de OOP
-
 * Arraylists
 * Strings
 
