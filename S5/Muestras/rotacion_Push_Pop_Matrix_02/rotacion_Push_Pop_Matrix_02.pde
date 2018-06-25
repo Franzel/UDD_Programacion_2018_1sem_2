@@ -9,17 +9,16 @@ void setup() {
 
 void draw() {
   background(255);
-  //Esto no da el resultado esperado.
-  //Con este metodo estamos rotando el canvas, no los elementos
+
   fill(0, 255, 0);
-  rect(0, 0, 50, 50);
+  rect(0, 0, 50, 50); //cuadrado en la esquina, no rota
 
   //las funciones de Push-PopMatrix hacen que la rotacion solo afecte lo que este entremedio de ellas
   pushMatrix();//Empieza Aca
   translate(width/2, height/2); //trasladamos la matriz a donde actualmente esta la mitad del canvas
   //rotate(radians(30)); //rotamos 30 grados. Ojo que rotate() solo acepta radianes, por eso convertimos usando funcion radians()
   //rotate(radians(mouseY));  //activar esto para rotar con el mouse
-  rotate(radians(frameCount));  //activar esto para rotar automaticamente
+  rotate(radians(millis()/10));  //activar esto para rotar automaticamente
   
   fill(255, 0, 0);
   rect(0, 0, 100, 100); //dibujamos la cosa
