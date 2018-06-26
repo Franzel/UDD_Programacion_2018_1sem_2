@@ -166,14 +166,14 @@ Se debe poner especial atención al factor estético de la composición.
 
 #### Etapas de Entrega:
 **Semana 06: Anteproyecto**
-- Cada alumno presentará (en 3 minutos máximo) lo que se pretende hacer.
-- La presentación debe incluir:
-  - Uno o más esquemas de lo que se quiere hacer, es decir, dibujar y esquematizar tanto la funcionalidad, interacción y visualidad del resultado final.
-  - Mostrar en forma breve lo que se ha programado hasta este momento. Debe ser funcional y demostrar que se ha programado en base a la intención del proyecto.
-  - Fuentes de inspiración.
-  - Plan de trabajo: dónde quiero estar la proxima semana, qué dejaré para la semana final.
-  - Entregar un pdf, en formato horizontal, máximo de 2 hojas que explique en forma clara y concisa lo descrito más arriba.
-  - ***ver formatos de entrega más abajo***
+~~- Cada alumno presentará (en 3 minutos máximo) lo que se pretende hacer.~~
+~~- La presentación debe incluir:~~
+ ~~- Uno o más esquemas de lo que se quiere hacer, es decir, dibujar y esquematizar tanto la funcionalidad, interacción y visualidad del resultado final.~~
+ ~~- Mostrar en forma breve lo que se ha programado hasta este momento. Debe ser funcional y demostrar que se ha programado en base a la intención del proyecto.~~
+~~- Fuentes de inspiración.~~
+  ~~- Plan de trabajo: dónde quiero estar la proxima semana, qué dejaré para la semana final.~~
+  ~~- Entregar un pdf, en formato horizontal, máximo de 2 hojas que explique en forma clara y concisa lo descrito más arriba.~~
+  ~~- ***ver formatos de entrega más abajo***~~
 
 **Semana 07: Entrega Final**
 - Cada alumno presentará (en 3 minutos máximo) el estado final del proyecto.
